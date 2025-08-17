@@ -5,4 +5,5 @@ sentencepiece
 langdetect
 pandas
 google-generativeai
+pycountry
 
