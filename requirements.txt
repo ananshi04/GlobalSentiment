@@ -4,4 +4,5 @@ torch
 sentencepiece
 langdetect
 pandas
-google-genai
+google-generativeai
+
